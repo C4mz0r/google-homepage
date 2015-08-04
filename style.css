@@ -1,0 +1,116 @@
+* {
+	font-family:  Arial, sans-serif;
+	font-size: 13px;
+}
+
+.formbutton {
+	background-color: #F5F5F5;
+	margin: 11px 8px 11px 8px;
+	font-size: 11px;
+	font-weight: 700;
+	border: 1px solid;
+	height: 25px;
+}
+
+#offeredin {
+	text-align: center;
+	padding-top: 50px;
+}
+
+#searchtext {
+	width: 550px;
+	height: 20px;
+}
+
+#aroundlogo {
+	
+	padding-top: 200px;
+}
+
+#logo {
+	margin: auto;	
+	
+	
+	text-align: center;
+	vertical-align: middle;
+	padding-bottom: 20px;
+	
+	clear:right;
+
+	/*
+	border: 2px solid red;
+	background-color: orange;
+	*/
+}
+
+#country {
+	position: relative;
+	text-align: center;
+	left: 110px;
+	top: -45px;
+	
+	font-size: 16px;
+	color: #777;
+	font-weight: 700;
+}
+
+#pic {
+	height: 95px;
+}
+
+#header {
+	float: right;
+
+
+	/* border: 2px solid red; */
+	
+}
+
+#footer {
+	float: left;
+	position: fixed;
+	bottom: 0;
+	color: #222;
+	background-color: #F5F5F5;
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	margin-left: -10px;
+	border: 1px #f0f0f0 solid;
+	
+
+
+}
+
+#footerleft {
+	float: left;
+}
+
+#footerright {
+	float: right;
+	margin-right: 20px;
+}
+
+.leftfooteritem {
+	display: inline-block;
+	padding-left: 15px;
+	vertical-align: middle;
+}
+
+.rightfooteritem {
+	display: inline-block;
+	padding-left: 15px;
+	vertical-align: middle;
+}
+
+#header > * {
+	display: inline-block;
+	padding-left: 15px;
+	vertical-align: middle;
+}
+
+.form {
+	margin: auto;
+	text-align: center;
+}
+
+
